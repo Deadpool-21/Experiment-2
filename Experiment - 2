@@ -1,0 +1,22 @@
+Nilay Bhatia
+E&TC-A3
+24070123063
+
+# To study and implement C++ Program Structure (Data Types)
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int age = 19;
+    float height = 11.9;
+    char grade = 'A';
+    bool isPassed = true;
+
+   cout << "Age: " << age << endl;
+    cout << "Height: " << height << endl;
+    cout << "Grade: " << grade << endl;
+    cout << "Passed: " << isPassed << endl;
+
+   return 0;
+}
