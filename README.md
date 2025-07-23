@@ -2,7 +2,8 @@ AIM : To study and implement C++ Program Structure (Data Types)
 
 SOFTWARE USED : VS CODE
 
-2. Theory
+1) Theory
+
 In C++, data types define the nature of data a variable can hold. The most commonly used built-in data types include:
 
 int – stores integer values.
@@ -25,7 +26,7 @@ Determine the memory occupied by each data type using the sizeof() operator.
 
 Understanding the behavior and memory requirements of each data type helps in writing efficient code and selecting appropriate types for variables in real-world programs.
 
-3. Algorithm
+2) Algorithm
    
 Start the program.
 
@@ -43,7 +44,8 @@ Apply the sizeof() operator to each variable to show memory usage.
 
 End the program.
 
-4. Procedure
+3) Procedure
+ 
 Create a new C++ source file.
 
 Write the basic structure of a C++ program with #include <iostream> and main() function.
@@ -68,7 +70,8 @@ The size (in bytes) each data type occupies.
 
 How data behaves and is displayed in C++.
 
-5. Sample Output Observation
+4) Sample Output Observation
+
 Integer variable displays whole number.
 
 Float and double show decimal values (with different precision).
@@ -89,7 +92,7 @@ char – 1 byte
 
 bool – 1 byte
 
-6. Conclusion
+5) Conclusion
 Through this experiment, we gained a clear understanding of built-in data types in C++. It highlighted how different data types are declared,
 initialized, displayed, and how much memory each occupies. This foundational knowledge is essential for writing efficient and reliable C++ programs
 and making informed decisions when choosing appropriate data types for various computational tasks.
