@@ -20,3 +20,9 @@ int main() {
 
    return 0;
 }
+
+Expected Output :-
+Age: 19
+Height: 11.9
+Grade: A
+Passed: 1
