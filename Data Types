@@ -31,7 +31,7 @@ int main() {
 }
 
 
-RESULT :
+Expected Output :- 
 
 Enter any integer: 10
 Integer = 10 and size is 4 bytes
